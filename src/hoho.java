@@ -5,5 +5,6 @@ public class hoho {
         System.out.println("what f\n");
         System.out.println("what f\n");
         System.out.println("what f\n");
+        qtssb;
     }
 }
